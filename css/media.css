@@ -1,0 +1,137 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+ .menu ul li a{
+	text-align: right;
+	font-size:18px;
+	padding:0 0px !important;
+}
+/*slider start*/
+.s-content h1 {
+    font-size: 26px;   
+    margin-bottom: 20px;
+}
+.s-content h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.s-content {
+    margin-top: 10px;
+}
+.apple {
+    font-size: 34px;
+}
+  .cid li {
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+}
+.slider {
+    padding-bottom: 70px;
+}
+.cid {
+    bottom: -60px;
+}
+/*feature*/
+.single {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.feature {
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.c_p {	
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+ .c_h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+/*contact start*/
+.email_form {
+    margin-bottom: 10px;
+}
+.icon {
+    font-size: 26px;
+    margin-top: 50px;
+  
+}
+.contact {
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+/*footer start*/
+footer {   
+    padding-top: 30px; 
+    text-align: center;
+}
+
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+.menu ul li a{
+	text-align: right;
+	font-size: 20px;
+	padding:0 0px !important;
+}
+/*slider start*/
+    .cid li {
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+}
+/*feature*/
+.single {
+    margin-bottom: 40px;
+    text-align: center;
+}
+.feature {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.c_p {
+    margin-bottom: 40px;
+}
+/*contact start*/
+.email_form {
+    margin-bottom: 10px;
+}
+.contact {
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+/*footer start*/
+footer {   
+    padding-top: 30px; 
+    text-align: center;
+}
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.menu ul li a{
+	text-align: right;
+	padding:0 0px !important;
+}
+/*slider start*/
+.s-content {
+    margin-top: 33px;
+    }
+    /*contact start*/
+    .contact {
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+ }
