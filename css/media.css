@@ -53,19 +53,19 @@
     margin-bottom: 10px;
 }
 .icon {
-    font-size: 26px;
-    margin-top: 50px;
-  
+    font-size: 32px !important;
+    padding: 0px 5px !important;
 }
 .contact {
     padding-top: 50px;
-    padding-bottom: 40px;
+    padding-bottom: 40px !important;
 }
 /*footer start*/
 footer {   
     padding-top: 30px; 
     text-align: center;
 }
+
 
  }
 
